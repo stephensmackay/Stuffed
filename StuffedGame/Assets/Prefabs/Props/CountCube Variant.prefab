@@ -66,6 +66,19 @@ MonoBehaviour:
   mouseEnterEvent:
     m_PersistentCalls:
       m_Calls: []
+--- !u!65 &2263766969402988320
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1813411521336383313}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.02, y: 0.02, z: 0.02}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1579604559739103744
 PrefabInstance:
   m_ObjectHideFlags: 0
